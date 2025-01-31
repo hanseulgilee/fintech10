@@ -4,6 +4,6 @@
 
 ### 헤딩3
 
-'''
+```
 Stay hungry, stay foolish.
-'''
+```
